@@ -1,0 +1,8 @@
+{
+	"nativescript": {
+		"id": "org.nativescript.MoodBooster",
+		"tns-android": {
+			"version": "1.2.1"
+		}
+	}
+}

@@ -1,0 +1,11 @@
+<Page loaded="load">
+	<StackLayout orientation="vertical">
+		<Image src="~/images/3.png" stretch="none" horizontalAlignment="center"/>
+
+		<TextField text= "{{ email }}" hint="Email address" keyboardType="email"/>
+		<TextField text= "{{ password }}" secure ="true" hint="Password"/>
+
+		<Button text="Sign up" tap="register"/>
+
+	</StackLayout>
+</Page>

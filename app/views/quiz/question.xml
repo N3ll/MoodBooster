@@ -1,0 +1,10 @@
+<Page loaded="load">
+	<StackLayout orientation="vertical">
+		<Label text="{{ question }}"/>
+
+		<Label text="{{ }}"/>
+		<Label text="2. Answer"/>
+		<Label text="3. Answer"/>
+		<Label text="4. Answer"/>
+	</StackLayout>
+</Page>

@@ -1,0 +1,78 @@
+{
+  "name": "everlive-sdk",
+  "description": "Everlive SDK for Node.js",
+  "author": {
+    "name": "Telerik"
+  },
+  "homepage": "http://www.telerik.com/everlive",
+  "version": "1.5.4",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "dependencies": {
+    "jstimezonedetect": "^1.0.5",
+    "mingo": "github:vdininski/mingo",
+    "mongo-query": "^0.5.7",
+    "node-cryptojs-aes": "^0.4.0",
+    "node-localstorage": "^0.5.1",
+    "reqwest": "^1.1.5",
+    "rsvp": "^3.0.17",
+    "underscore": "^1.8.2",
+    "json-stable-stringify": "1.0.0"
+  },
+  "engines": {
+    "node": ">=0.8.1"
+  },
+  "private": false,
+  "main": "./src/index.js",
+  "devDependencies": {
+    "async": "^0.9.0",
+    "browserify": "^9.0.3",
+    "chai": "2.1.0",
+    "cheerio": "^0.19.0",
+    "fs-extra": "^0.18.0",
+    "grunt": "^0.4.5",
+    "grunt-browserify": "^3.5.1",
+    "grunt-contrib-compress": "^0.13.0",
+    "grunt-contrib-concat": "^0.5.1",
+    "grunt-contrib-connect": "0.10.1",
+    "grunt-contrib-copy": "^0.8.0",
+    "grunt-contrib-uglify": "^0.8.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-env": "0.4.4",
+    "grunt-exorcise": "^2.0.0",
+    "grunt-file-append": "0.0.6",
+    "grunt-mocha-phantomjs": "0.6.1",
+    "grunt-shell-spawn": "^0.3.2",
+    "grunt-wrap": "^0.3.0",
+    "mocha": "2.1.0",
+    "phantomjs": "^1.9.15",
+    "request": "2.21.0",
+    "uglify-save-license": "^0.4.1",
+    "upath": "^0.1.5"
+  },
+  "repository": "",
+  "license": "Telerik",
+  "gitHead": "c1cc730ced3bc4b56db789cf048255ee5b490551",
+  "_id": "everlive-sdk@1.5.4",
+  "_shasum": "56eda0a2f96b2ed040376831c22da9bdc02e618e",
+  "_from": "everlive-sdk@*",
+  "_npmVersion": "2.10.1",
+  "_nodeVersion": "0.12.4",
+  "_npmUser": {
+    "name": "everlive-system",
+    "email": "alexander.filipov@telerik.com"
+  },
+  "dist": {
+    "shasum": "56eda0a2f96b2ed040376831c22da9bdc02e618e",
+    "tarball": "http://registry.npmjs.org/everlive-sdk/-/everlive-sdk-1.5.4.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "everlive-system",
+      "email": "ivan.pelovski@telerik.com"
+    }
+  ],
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/everlive-sdk/-/everlive-sdk-1.5.4.tgz"
+}

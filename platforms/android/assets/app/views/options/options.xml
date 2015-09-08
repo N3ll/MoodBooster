@@ -1,0 +1,8 @@
+<Page loaded ="load">
+	<StackLayout orientation="vertical">
+		<Image src="~/images/3.png" stretch="none" horizontalAlignment="center"/>
+
+		<Button text="Take the mood-improving quiz" tap="startQuiz"/>
+		<Button text="Gallery" tap="openGallery"/>
+	</StackLayout>
+</Page>

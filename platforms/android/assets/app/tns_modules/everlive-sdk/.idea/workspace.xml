@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a6627288-6dd5-4d3d-891c-f77eee7392d6" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\GitRepositories\everlive-js-sdk-latest\test\mobile\EverliveNativeScript\platforms\android\bin\dexedLibs\android-support-v4-8054e0161a9e1e613bb06d3d214ea512.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\GitRepositories\everlive-js-sdk-latest\test\mobile\EverliveNativeScript\platforms\android\bin\dexedLibs\nativescript-0eed249d54a7fa2e1c82c2789d255f83.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\GitRepositories\everlive-js-sdk-latest\test\mobile\EverliveNativeScript\platforms\android\bin\dexedLibs\widgets-58e35b881b949f2a5b06d93aeff178fd.jar" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/platforms/android/bin/EverliveNativeScript-debug-unaligned.apk" afterPath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/platforms/android/bin/EverliveNativeScript-debug-unaligned.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/platforms/android/bin/EverliveNativeScript-debug.apk" afterPath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/platforms/android/bin/EverliveNativeScript-debug.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/platforms/android/bin/EverliveNativeScript.ap_" afterPath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/platforms/android/bin/EverliveNativeScript.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/lib/Android/android.jar" afterPath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/lib/Android/android.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/platforms/android/bin/classes.dex" afterPath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/platforms/android/bin/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/platforms/android/libs/armeabi-v7a/libNativeScript.so" afterPath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/platforms/android/libs/armeabi-v7a/libNativeScript.so" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/platforms/android/libs/x86/libNativeScript.so" afterPath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/platforms/android/libs/x86/libNativeScript.so" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/lib/Android/nativescript.jar" afterPath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/lib/Android/nativescript.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/platforms/android/libs/nativescript.jar" afterPath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/platforms/android/libs/nativescript.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/lib/Android/widgets.jar" afterPath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/lib/Android/widgets.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/platforms/android/libs/widgets.jar" afterPath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/platforms/android/libs/widgets.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/platforms/android/.project" afterPath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/platforms/android/.project" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/platforms/android/bin/AndroidManifest.xml.d" afterPath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/platforms/android/bin/AndroidManifest.xml.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/platforms/android/AndroidManifest.xml" afterPath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/platforms/android/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/platforms/android/bin/AndroidManifest.xml" afterPath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/platforms/android/bin/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/platforms/android/gen/org/nativescript/EverliveNativeScript/BuildConfig.java" afterPath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/platforms/android/gen/org/nativescript/EverliveNativeScript/BuildConfig.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/platforms/android/bin/EverliveNativeScript-debug-unaligned.apk.d" afterPath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/platforms/android/bin/EverliveNativeScript-debug-unaligned.apk.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/platforms/android/bin/EverliveNativeScript.ap_.d" afterPath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/platforms/android/bin/EverliveNativeScript.ap_.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/platforms/android/gen/R.java.d" afterPath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/platforms/android/gen/R.java.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/app/test/TestRunner.js" afterPath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/app/test/TestRunner.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/platforms/android/assets/app/test/TestRunner.js" afterPath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/platforms/android/assets/app/test/TestRunner.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/platforms/android/bin/build.prop" afterPath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/platforms/android/bin/build.prop" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/platforms/android/bin/classes.dex.d" afterPath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/platforms/android/bin/classes.dex.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/app/config.js" afterPath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/app/config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/platforms/android/assets/app/config.js" afterPath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/platforms/android/assets/app/config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/mobile/EverliveCordova/config.xml" afterPath="$PROJECT_DIR$/test/mobile/EverliveCordova/config.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/platforms/android/custom_rules.xml" afterPath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/platforms/android/custom_rules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/app/test/suites/everlive-crud/everlive-crud.test.js" afterPath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/app/test/suites/everlive-crud/everlive-crud.test.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/platforms/android/assets/app/test/suites/everlive-crud/everlive-crud.test.js" afterPath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/platforms/android/assets/app/test/suites/everlive-crud/everlive-crud.test.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/suites/everlive-crud/everlive-crud.test.js" afterPath="$PROJECT_DIR$/test/suites/everlive-crud/everlive-crud.test.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/app/test/suites/everlive-files/everlive-files.test.js" afterPath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/app/test/suites/everlive-files/everlive-files.test.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/platforms/android/assets/app/test/suites/everlive-files/everlive-files.test.js" afterPath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/platforms/android/assets/app/test/suites/everlive-files/everlive-files.test.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/app/test/suites/everlive-offline-sync/everlive-offline-sync.test.js" afterPath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/app/test/suites/everlive-offline-sync/everlive-offline-sync.test.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/platforms/android/assets/app/test/suites/everlive-offline-sync/everlive-offline-sync.test.js" afterPath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/platforms/android/assets/app/test/suites/everlive-offline-sync/everlive-offline-sync.test.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/suites/everlive-offline-sync/everlive-offline-sync.test.js" afterPath="$PROJECT_DIR$/test/suites/everlive-offline-sync/everlive-offline-sync.test.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/app/test/suites/everlive-query/everlive-query.test.js" afterPath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/app/test/suites/everlive-query/everlive-query.test.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/platforms/android/assets/app/test/suites/everlive-query/everlive-query.test.js" afterPath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/platforms/android/assets/app/test/suites/everlive-query/everlive-query.test.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/app/test/suites/externalconfig.js" afterPath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/app/test/suites/externalconfig.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/platforms/android/assets/app/test/suites/externalconfig.js" afterPath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/platforms/android/assets/app/test/suites/externalconfig.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/suites/externalconfig.js" afterPath="$PROJECT_DIR$/test/suites/externalconfig.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/platforms/android/bin/jarlist.cache" afterPath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/platforms/android/bin/jarlist.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/platforms/android/local.properties" afterPath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/platforms/android/local.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/package.json" afterPath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/platforms/android/assets/internal/prepareExtend.js" afterPath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/platforms/android/assets/internal/prepareExtend.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/platforms/android/project.properties" afterPath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/platforms/android/project.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/platforms/android/res/values/strings.xml" afterPath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/platforms/android/res/values/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/platforms/android/res/values/styles.xml" afterPath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/platforms/android/res/values/styles.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/platforms/android/res/values-v21/styles.xml" afterPath="$PROJECT_DIR$/test/mobile/EverliveNativeScript/platforms/android/res/values-v21/styles.xml" />
+    </list>
+    <ignored path="everlive-js-sdk-latest.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="everlive-js-sdk-latest" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="everlive-crud.test.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/suites/everlive-crud/everlive-crud.test.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.6191889" vertical-offset="10356" max-vertical-offset="16388">
+              <caret line="646" column="56" selection-start-line="646" selection-start-column="56" selection-end-line="646" selection-end-column="56" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="everlive-kendo.test.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/suites/everlive-kendo/everlive-kendo.test.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="12087">
+              <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test/suites/everlive-offline-sync/everlive-offline-sync.test.js" />
+        <option value="$PROJECT_DIR$/test/suites/everlive-crud/everlive-crud.test.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGruntFileManager">
+    <gruntfiles>
+      <GruntfileState>
+        <gruntfile-path>$PROJECT_DIR$/Gruntfile.js</gruntfile-path>
+      </GruntfileState>
+    </gruntfiles>
+    <initial>false</initial>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1176" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="everlive-js-sdk-latest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="everlive-js-sdk-latest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="everlive-js-sdk-latest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="everlive-js-sdk-latest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="everlive-js-sdk-latest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="everlive-js-sdk-latest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="everlive-js-sdk-latest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="suites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="everlive-js-sdk-latest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="everlive-js-sdk-latest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="suites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="everlive-offline-sync" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="everlive-js-sdk-latest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="everlive-js-sdk-latest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="suites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="everlive-kendo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="everlive-js-sdk-latest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="everlive-js-sdk-latest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="suites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="everlive-crud" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RunManager">
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6627288-6dd5-4d3d-891c-f77eee7392d6" name="Default" comment="" />
+      <created>1439461953168</created>
+      <option name="number" value="Default" />
+      <updated>1439461953168</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Grunt" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test/suites/everlive-offline-sync/everlive-offline-sync.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33266532" vertical-offset="1334" max-vertical-offset="22814">
+          <caret line="98" column="19" selection-start-line="98" selection-start-column="19" selection-end-line="98" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/suites/everlive-kendo/everlive-kendo.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="12087">
+          <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/suites/everlive-crud/everlive-crud.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6191889" vertical-offset="10356" max-vertical-offset="16388">
+          <caret line="646" column="56" selection-start-line="646" selection-start-column="56" selection-end-line="646" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
