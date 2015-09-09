@@ -24,4 +24,6 @@ Button {
     background-color: #FFFF99;
 }
 
-
+.selected{
+    background-color: red;
+}

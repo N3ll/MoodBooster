@@ -1,10 +1,17 @@
 <Page loaded="load">
-	<StackLayout orientation="vertical">
-		<Label text="{{ question }}"/>
 
-		<Label text="{{ }}"/>
-		<Label text="2. Answer"/>
-		<Label text="3. Answer"/>
-		<Label text="4. Answer"/>
-	</StackLayout>
+		
+<GridLayout columns="*,*" rows="*,*,auto">
+		<Image src="~/images/1.png" stretch="none"  colSpan="2" row="0" horizontalAlignment="center" verticalAlignment="bottom"/>
+		<Label text="{{ questionText }}" textWrap="true"  colSpan="2" row="0" verticalAlignment="bottom" horizontalAlignment="left" marginRight="20" marginLeft="20"/>
+
+		 <Repeater items="{{ answers }}"  colSpan="2" row="1" verticalAlignment="top" horizontalAlignment="left" >
+		    <Repeater.itemTemplate>
+		       <Label text="{{ index + answer }}" tap="saveAnswer" textWrap="true" marginRight="20" marginLeft="20" marginBottom="5" cssClass="{{ isSelected ? 'selected' : 'not-selected' }}"/>
+		    </Repeater.itemTemplate>
+		 </Repeater>
+
+		<Button col="0" row="2" verticalAlignment="center" horizontalAlignment="center" text="Previous" tap="changeQuestion" visibility="{{ viewPrev }}"/>
+		<Button col="1" row="2" verticalAlignment="center" horizontalAlignment="center" text="Next" tap="changeQuestion" visibility="{{ viewNext }}" />
+</GridLayout>
 </Page>

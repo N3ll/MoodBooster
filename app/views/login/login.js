@@ -4,11 +4,7 @@ var observableModule = require("data/observable");
 var config = require("../../shared/config"); 
 var everlive = config.el;
 
-var ModelModule = require("../../shared/model/model");
-var model = new ModelModule.Model();
-
-console.log("Questions in the login: " + JSON.stringify(model.questions));
-console.log("Jokes in the login: " + JSON.stringify(model.jokes));
+var model = require("../../shared/model/model");
 
 var user = new observableModule.Observable({
 email:"user@domain.com",
