@@ -1,2 +1,2 @@
-D:\Projects\MoodBooster\platforms\android\bin\AndroidManifest.xml : \
-D:\Projects\MoodBooster\platforms\android\AndroidManifest.xml \
+D:\GitHub\MoodBooster\platforms\android\bin\AndroidManifest.xml : \
+D:\GitHub\MoodBooster\platforms\android\AndroidManifest.xml \

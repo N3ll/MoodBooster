@@ -1,6 +1,7 @@
 var frameModule = require("ui/frame");
 var observableModule = require("data/observable");
 
+//s
 var config = require("../../shared/config"); 
 var everlive = config.el;
 

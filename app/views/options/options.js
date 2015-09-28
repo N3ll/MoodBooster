@@ -7,3 +7,4 @@ exports.startQuiz=function(){
 exports.openGallery = function(){
 	frameModule.topmost().navigate("./views/gallery/gallery");
 }
+ 
